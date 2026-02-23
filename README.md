@@ -25,7 +25,7 @@ Landshare Protocol utilizes asset tokenization 🔄, smart contracts 🔒, and w
 
 ## Getting Started
 
-Interact with the project easily using the Lovable AI platform 🤖, local development 🖥️, GitHub editing ✏️, or Codespaces ☁️—ensuring flexibility for contributors of all skill levels.
+local development 🖥️, GitHub editing ✏️, or Codespaces ☁️—ensuring flexibility for contributors of all skill levels.
 
 ## Deployment & Hosting
 
